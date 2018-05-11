@@ -1,7 +1,7 @@
 /*******************************************************************************
- * Conor Ryan - Socket Programming - Python                     				       *
- * Basic UDP Server							                                               *
- * May 2018			        				                                               *
+ * Conor Ryan - Socket Programming - Python                     				*
+ * Basic UDP Server							                                    *
+ * May 2018			        				                                    *
  *******************************************************************************/
 
 
